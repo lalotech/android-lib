@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">LalotechLibrary</string>
+    <string name="maps.nogps.title">No GPS</string>
+	<string name="maps.nogps.message">Desea Activar el GPS</string>
+	<string name="maps.nogps.ok">SI</string>
+	<string name="maps.nogps.cancel">NO</string>
+</resources>
+
